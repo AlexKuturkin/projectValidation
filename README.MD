@@ -1,4 +1,8 @@
-project Validation
+# project Validation
+
+Demo: https://alexkuturkin.github.io/projectValidation/
+
+Version: 0.0.3
 
  Стэк: HTML, CSS, JS, регулярные выражения.
 
